@@ -2,7 +2,12 @@ body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
-
+@font-face {
+    font-family: 'SansHegarty'; /* Choose a name for your font */
+    src: url('BBHSansHegarty-Regular.ttf') format('ttf')
+    font-weight: normal; /* Or specify a weight like bold, 700, etc. */
+    font-style: normal; /* Or specify italic */
+}
 .topnav {
   overflow: hidden;
   background-color: #242423;
