@@ -16,14 +16,6 @@
     font-weight: 200; /* Or specify a weight like bold, 700, etc. */
     font-style: italic; /* Or specify italic */
 }
-p {
-  margin: 0;
-  font-family: 'SansHegartyBold', sans-serif;
-}
-a {
-  margin: 0;
-  font-family: 'SansHegartyItalic', sans-serif;
-{
 .topnav {
   overflow: hidden;
   font-family: 'SansHegartyItalic', sans-serif;
