@@ -14,7 +14,7 @@
     font-family: 'SansHegartyItalic'; /* Choose a name for your font */
     src: url('BBHSansHegarty-Regular.ttf');
     font-weight: 200; /* Or specify a weight like bold, 700, etc. */
-    font-style: 'italic'; /* Or specify italic */
+    font-style: italic; /* Or specify italic */
 }
 p {
   margin: 0;
