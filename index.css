@@ -1,12 +1,12 @@
 
 @font-face {
-    font-family: 'SansHegarty'; /* Choose a name for your font */
-    src: url('BBHSansHegarty-Regular.ttf');
+    font-family: 'DMSans'; /* Choose a name for your font */
+    src: url('DMSans-VariableFont_opsz,wght.ttf');
     font-weight: 200; /* Or specify a weight like bold, 700, etc. */
     font-style: normal; /* Or specify italic */
 .topnav {
   overflow: hidden;
-  font-family: 'SansHegarty', sans-serif;
+  font-family: 'DMSans', sans-serif;
   background-color: #242423;
 }
 
