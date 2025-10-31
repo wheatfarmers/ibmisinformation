@@ -2,7 +2,7 @@
 @font-face {
     font-family: 'DMSans'; /* Choose a name for your font */
     src: url('DMSans.ttf');
-    font-weight: 200; /* Or specify a weight like bold, 700, etc. */
+    font-weight: 400; /* Or specify a weight like bold, 700, etc. */
     font-style: normal; /* Or specify italic */
 }
 .topnav {
@@ -24,5 +24,7 @@
   /* background-color: #ddd; */
   color: #f5cb5c;
 }
+h2 {
+ font-family: 'DMSans', sans-serif
 
-
+}
