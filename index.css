@@ -4,6 +4,7 @@
     src: url('DMSans.ttf');
     font-weight: 200; /* Or specify a weight like bold, 700, etc. */
     font-style: normal; /* Or specify italic */
+}
 .topnav {
   overflow: hidden;
   font-family: 'DMSans', sans-serif;
