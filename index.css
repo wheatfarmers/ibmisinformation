@@ -5,10 +5,7 @@
     font-weight: 400; /* Or specify a weight like bold, 700, etc. */
     font-style: normal; /* Or specify italic */
 }
-body {
-    padding: 0;
-    margin: 0;
-}
+
 .topnav {
   overflow: hidden;
   font-family: 'DMSans', sans-serif;
@@ -19,7 +16,7 @@ body {
   float: left;
   color: #f2f2f2;
   text-align: center;
-
+  padding: 16px, 10px;
   text-decoration: none;
   font-size: 17px;
 }
