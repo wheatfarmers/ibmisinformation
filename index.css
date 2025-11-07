@@ -55,3 +55,6 @@ p {
  font-family: 'DMSans', sans-serif
 
 }
+img {
+  transform: scale(1.5);
+}
