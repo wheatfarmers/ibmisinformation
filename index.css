@@ -41,10 +41,12 @@ body {
 }
 .banner {
   height: 200px;
+  overflow: hidden;
 }
 .bannerimg {
   z-index: 1;
   position: relative;
+  transform: scale(1.5);
 
 }
 h2 {
@@ -55,6 +57,4 @@ p {
  font-family: 'DMSans', sans-serif
 
 }
-img {
-  transform: scale(1.5);
-}
+
