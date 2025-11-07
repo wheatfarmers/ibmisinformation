@@ -50,3 +50,7 @@ p {
  font-family: 'DMSans', sans-serif
 
 }
+img {
+  width: 200px;
+  height: auto;
+}
