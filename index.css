@@ -32,6 +32,16 @@ body {
   /* background-color: #ddd; */
   color: #f5cb5c;
 }
+.overlay {
+  z-index: 2;
+  position: absolute;
+  
+}
+.bannerimg {
+  z-index: 1;
+  position: relative;
+
+}
 h2 {
  font-family: 'DMSans', sans-serif
 
