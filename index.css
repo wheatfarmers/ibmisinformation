@@ -36,8 +36,11 @@ body {
   z-index: 2;
   position: absolute;
   left: 50%;
-  transform: translate(50%, 0%);
+  transform: translate(-50%, 0%);
   
+}
+.banner {
+  height: 200px;
 }
 .bannerimg {
   z-index: 1;
